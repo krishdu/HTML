@@ -13,6 +13,21 @@ Portfolio Page
 <img alt="GIF" src="https://github.com/krishdu/HTML/blob/master/portfolio-gif.gif?raw=true" width="600" height="400"/>
  </p>
  
+```
+Tribute Page - A. P. J. Abdul Kalam
+``` 
+<p align="center">
+<img alt="GIF" src="https://github.com/krishdu/HTML/blob/master/tribute-page-gif.gif?raw=true" width="600" height="400"/>
+</p>
+
+```
+Feedback Page
+``` 
+<p align="center">
+<img alt="GIF" src="https://github.com/krishdu/HTML/blob/master/feedback-page-gif.gif?raw=true" width="600" height="400"/>
+</p>
+ 
+ ## To View all the pages with CSS [Click Me 🖱️](https://github.com/krishdu/CSS)
  
 
 
