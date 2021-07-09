@@ -9,7 +9,9 @@ purely in HTML.
 ```
 Portfolio Page
 ```
-<img align="center" alt="GIF" src="https://github.com/krishdu/HTML/blob/master/portfolio-gif.gif?raw=true" width="500" height="320"/>
+<p align="center">
+<img alt="GIF" src="https://github.com/krishdu/HTML/blob/master/portfolio-gif.gif?raw=true" width="600" height="400"/>
+ </p>
  
  
 
